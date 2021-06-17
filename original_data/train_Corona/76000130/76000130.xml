@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Bat-Call_PatientData>
+  <State>close</State>
+  <SerialNumber>76000130</SerialNumber>
+  <Gender>Male</Gender>
+  <Age>60</Age>
+  <Height>181-190</Height>
+  <Weight>101-150</Weight>
+  <Smoking>No</Smoking>
+  <Chronic>
+    <Disease>
+      <Other>hypertension+obesity</Other>
+    </Disease>
+  </Chronic>
+  <Diagnostic>
+    <Disease>
+      <Other>covid19</Other>
+    </Disease>
+  </Diagnostic>
+  <Imaging>
+    <Type>CT</Type>
+    <Findings>bilateral ground glass opacities</Findings>
+  </Imaging>
+  <LungAuscultation>
+    <Findings>right lower crackles</Findings>
+  </LungAuscultation>
+  <HeartRate>87</HeartRate>
+  <SpO2>95</SpO2>
+  <DownLoadFiles>14</DownLoadFiles>
+</Bat-Call_PatientData>
