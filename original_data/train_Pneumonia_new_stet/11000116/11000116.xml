@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Bat-Call_PatientData>
+  <State>close</State>
+  <SerialNumber>11000116</SerialNumber>
+  <Gender>Male</Gender>
+  <Age>87</Age>
+  <Height>171-180</Height>
+  <Weight>51-80</Weight>
+  <Smoking>Yes</Smoking>
+  <Chronic>
+    <Disease>
+      <Other>s/p CABG , HTN</Other>
+    </Disease>
+  </Chronic>
+  <Diagnostic>
+    <Disease>Pneumonia</Disease>
+  </Diagnostic>
+  <Imaging>
+    <Type>X-ray</Type>
+    <Findings>OPACITY RML</Findings>
+  </Imaging>
+  <LungAuscultation>
+    <Findings>RALES </Findings>
+  </LungAuscultation>
+  <HeartRate>92</HeartRate>
+  <SpO2>93</SpO2>
+  <DownLoadFiles>14</DownLoadFiles>
+</Bat-Call_PatientData>
