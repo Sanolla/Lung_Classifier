@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Bat-Call_PatientData>
+  <State>close</State>
+  <SerialNumber>76000057</SerialNumber>
+  <Gender>Male</Gender>
+  <Age>74</Age>
+  <Height>161-170</Height>
+  <Weight>21-40</Weight>
+  <Smoking>No</Smoking>
+  <Chronic>
+    <Disease>
+      <Other>squamous cell carcinoma of right lung+hypertension+diabetes+copd</Other>
+    </Disease>
+  </Chronic>
+  <Diagnostic>
+    <Disease>
+      <Other>covid19</Other>
+    </Disease>
+  </Diagnostic>
+  <Imaging>
+    <Type>X-ray</Type>
+    <Findings>bilateral opacities</Findings>
+  </Imaging>
+  <LungAuscultation>
+    <Findings>left side wheezings</Findings>
+  </LungAuscultation>
+  <HeartRate>95</HeartRate>
+  <SpO2>95</SpO2>
+  <DownLoadFiles>14</DownLoadFiles>
+</Bat-Call_PatientData>
