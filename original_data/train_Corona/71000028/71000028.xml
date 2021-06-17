@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Bat-Call_PatientData>
+  <State>close</State>
+  <SerialNumber>71000028</SerialNumber>
+  <Gender>Male</Gender>
+  <Age>56</Age>
+  <Height>171-180</Height>
+  <Weight>81-100</Weight>
+  <Smoking>No</Smoking>
+  <Chronic>
+    <Disease>Asthma</Disease>
+  </Chronic>
+  <Diagnostic>
+    <Disease>
+      <Other>covid19</Other>
+    </Disease>
+  </Diagnostic>
+  <Imaging>
+    <Type>X-ray</Type>
+    <Findings />
+  </Imaging>
+  <LungAuscultation>
+    <Findings>crepitations</Findings>
+  </LungAuscultation>
+  <HeartRate>90</HeartRate>
+  <SpO2>85</SpO2>
+  <DownLoadFiles>18</DownLoadFiles>
+</Bat-Call_PatientData>
