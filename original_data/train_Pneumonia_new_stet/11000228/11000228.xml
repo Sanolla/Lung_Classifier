@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Bat-Call_PatientData>
+  <State>close</State>
+  <SerialNumber>11000228</SerialNumber>
+  <Gender>Male</Gender>
+  <Age>76</Age>
+  <Height>181-190</Height>
+  <Weight>101-150</Weight>
+  <Smoking>No</Smoking>
+  <Chronic>
+    <Disease>COPD</Disease>
+  </Chronic>
+  <Diagnostic>
+    <Disease>Pneumonia</Disease>
+  </Diagnostic>
+  <Imaging>
+    <Type>X-ray</Type>
+    <Findings>תסנין בבסיס ריאה ימין,גודש בשערים</Findings>
+  </Imaging>
+  <LungAuscultation>
+    <Findings>חרחורים עדינים דו צדדי</Findings>
+  </LungAuscultation>
+  <HeartRate>120</HeartRate>
+  <SpO2>96</SpO2>
+  <DownLoadFiles>15</DownLoadFiles>
+</Bat-Call_PatientData>
