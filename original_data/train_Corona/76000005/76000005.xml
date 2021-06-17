@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Bat-Call_PatientData>
+  <State>close</State>
+  <SerialNumber>76000005</SerialNumber>
+  <Gender>Female</Gender>
+  <Age>61</Age>
+  <Height>171-180</Height>
+  <Weight>41-80</Weight>
+  <Smoking>No</Smoking>
+  <Chronic>
+    <Disease>
+      <Other>rheumatoid arthritis+hypertension+depression</Other>
+    </Disease>
+  </Chronic>
+  <Diagnostic>
+    <Disease>
+      <Other>covid-19</Other>
+    </Disease>
+  </Diagnostic>
+  <Imaging>
+    <Type>X-ray</Type>
+    <Findings>bilateral opacities lower lobes</Findings>
+  </Imaging>
+  <LungAuscultation>
+    <Findings>light crepitations in right lower lobe</Findings>
+  </LungAuscultation>
+  <HeartRate>92</HeartRate>
+  <SpO2>90</SpO2>
+  <DownLoadFiles>14</DownLoadFiles>
+</Bat-Call_PatientData>
