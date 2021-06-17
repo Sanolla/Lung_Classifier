@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Bat-Call_PatientData>
+  <State>close</State>
+  <SerialNumber>41000010</SerialNumber>
+  <Gender>Male</Gender>
+  <Age>36</Age>
+  <Height>171-180</Height>
+  <Weight>81-100</Weight>
+  <Smoking>Yes</Smoking>
+  <Chronic>None</Chronic>
+  <Diagnostic>
+    <Disease>Pneumonia</Disease>
+  </Diagnostic>
+  <Imaging>
+    <Type>X-ray</Type>
+    <Findings>הצללות דו"צ</Findings>
+  </Imaging>
+  <LungAuscultation>
+    <Findings>קריפטצחות מאוד עדינות בשתי הריאות </Findings>
+  </LungAuscultation>
+  <HeartRate>92</HeartRate>
+  <SpO2>94</SpO2>
+  <DownLoadFiles>14</DownLoadFiles>
+</Bat-Call_PatientData>

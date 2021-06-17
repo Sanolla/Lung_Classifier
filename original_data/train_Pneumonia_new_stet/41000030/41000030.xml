@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Bat-Call_PatientData>
+  <State>close</State>
+  <SerialNumber>41000030</SerialNumber>
+  <Gender>Male</Gender>
+  <Age>26</Age>
+  <Height>171-180</Height>
+  <Weight>51-80</Weight>
+  <Smoking>No</Smoking>
+  <Chronic>
+    <Disease>
+      <Other>VENTRICULAR SEPTAL DEFECT</Other>
+    </Disease>
+  </Chronic>
+  <Diagnostic>
+    <Disease>Pneumonia</Disease>
+  </Diagnostic>
+  <Imaging>
+    <Type>X-ray</Type>
+    <Findings>דלקת ריאות דו"צ</Findings>
+  </Imaging>
+  <LungAuscultation>
+    <Findings>קרפיטציות מימין</Findings>
+  </LungAuscultation>
+  <HeartRate>101</HeartRate>
+  <SpO2>99</SpO2>
+  <DownLoadFiles>13</DownLoadFiles>
+</Bat-Call_PatientData>
