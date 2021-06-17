@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Bat-Call_PatientData>
+  <State>close</State>
+  <SerialNumber>76000114</SerialNumber>
+  <Gender>Male</Gender>
+  <Age>69</Age>
+  <Height>171-180</Height>
+  <Weight>81-100</Weight>
+  <Smoking>No</Smoking>
+  <Chronic>
+    <Disease>
+      <Other>HYPERTENSION+DIABETES</Other>
+    </Disease>
+  </Chronic>
+  <Diagnostic>
+    <Disease>
+      <Other>COVID19</Other>
+    </Disease>
+  </Diagnostic>
+  <Imaging>
+    <Type>X-ray</Type>
+    <Findings>BILATERAL OPACITIES</Findings>
+  </Imaging>
+  <LungAuscultation>
+    <Findings>RIGHT LOWER FINE CRACKLES</Findings>
+  </LungAuscultation>
+  <HeartRate>89</HeartRate>
+  <SpO2>93</SpO2>
+  <DownLoadFiles>14</DownLoadFiles>
+</Bat-Call_PatientData>
