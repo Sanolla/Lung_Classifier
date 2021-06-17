@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Bat-Call_PatientData>
+  <State>close</State>
+  <SerialNumber>750000004</SerialNumber>
+  <Gender>Male</Gender>
+  <Age>62</Age>
+  <Height>171-180</Height>
+  <Weight>101-150</Weight>
+  <Smoking>No</Smoking>
+  <Chronic>
+    <Disease>
+      <Other>ischemic heart disease congestive diastolic and systolic heart failure atrial fibrilation diabetes type II obesity</Other>
+    </Disease>
+  </Chronic>
+  <Diagnostic>
+    <Disease>
+      <Other>COVID19</Other>
+    </Disease>
+  </Diagnostic>
+  <Imaging>
+    <Type>X-ray</Type>
+    <Findings>opacity in right upper lobe</Findings>
+  </Imaging>
+  <LungAuscultation>Normal</LungAuscultation>
+  <HeartRate>77</HeartRate>
+  <SpO2>97</SpO2>
+  <DownLoadFiles>43</DownLoadFiles>
+</Bat-Call_PatientData>
