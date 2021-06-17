@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Bat-Call_PatientData>
+  <State>close</State>
+  <SerialNumber>11000197</SerialNumber>
+  <Gender>Male</Gender>
+  <Age>86</Age>
+  <Height>161-170</Height>
+  <Weight>81-100</Weight>
+  <Smoking>No</Smoking>
+  <Chronic>
+    <Disease>Congestive heart failur</Disease>
+  </Chronic>
+  <Diagnostic>
+    <Disease>Pneumonia</Disease>
+  </Diagnostic>
+  <Imaging>
+    <Type>X-ray</Type>
+    <Findings>קרפיטציות</Findings>
+  </Imaging>
+  <LungAuscultation>
+    <Findings>קרפיטציות</Findings>
+  </LungAuscultation>
+  <HeartRate>78</HeartRate>
+  <SpO2>100</SpO2>
+  <DownLoadFiles>21</DownLoadFiles>
+</Bat-Call_PatientData>
