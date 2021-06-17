@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Bat-Call_PatientData>
+  <State>close</State>
+  <SerialNumber>30000287</SerialNumber>
+  <Gender>Female</Gender>
+  <Age>59</Age>
+  <Height>171-180</Height>
+  <Weight>51-80</Weight>
+  <Smoking>Yes</Smoking>
+  <Chronic>None</Chronic>
+  <Diagnostic>Normal</Diagnostic>
+  <Imaging>
+    <Type>None</Type>
+  </Imaging>
+  <LungAuscultation>Normal</LungAuscultation>
+  <HeartRate>No Measurement</HeartRate>
+  <SpO2>No Measurement</SpO2>
+  <DownLoadFiles>15</DownLoadFiles>
+</Bat-Call_PatientData>
