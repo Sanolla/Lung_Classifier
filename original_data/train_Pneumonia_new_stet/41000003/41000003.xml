@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Bat-Call_PatientData>
+  <State>close</State>
+  <SerialNumber>41000003</SerialNumber>
+  <Gender>Female</Gender>
+  <Age>85</Age>
+  <Height>151-160</Height>
+  <Weight>51-80</Weight>
+  <Smoking>No</Smoking>
+  <Chronic>
+    <Disease>
+      <Other>AF</Other>
+    </Disease>
+  </Chronic>
+  <Diagnostic>
+    <Disease>Pneumonia</Disease>
+  </Diagnostic>
+  <Imaging>
+    <Type>X-ray</Type>
+    <Findings>הצללות דו"צ</Findings>
+  </Imaging>
+  <LungAuscultation>
+    <Findings>קריפטציות בבסיסים דו"צ</Findings>
+  </LungAuscultation>
+  <HeartRate>100</HeartRate>
+  <SpO2>83</SpO2>
+  <DownLoadFiles>14</DownLoadFiles>
+</Bat-Call_PatientData>
