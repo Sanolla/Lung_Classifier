@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Bat-Call_PatientData>
+  <State>close</State>
+  <SerialNumber>41000029</SerialNumber>
+  <Gender>Male</Gender>
+  <Age>39</Age>
+  <Height>171-180</Height>
+  <Weight>51-80</Weight>
+  <Smoking>Yes</Smoking>
+  <Chronic>None</Chronic>
+  <Diagnostic>Normal</Diagnostic>
+  <Imaging>
+    <Type>CT</Type>
+    <Findings>ללא תסנין. במפ</Findings>
+  </Imaging>
+  <LungAuscultation>
+    <Findings>ציפצופים וחירחורים</Findings>
+  </LungAuscultation>
+  <HeartRate>71</HeartRate>
+  <SpO2>99</SpO2>
+  <DownLoadFiles>14</DownLoadFiles>
+</Bat-Call_PatientData>
