@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Bat-Call_PatientData>
+  <State>close</State>
+  <SerialNumber>79000003</SerialNumber>
+  <Gender>Female</Gender>
+  <Age>61</Age>
+  <Height>151-160</Height>
+  <Weight>41-80</Weight>
+  <Smoking>No</Smoking>
+  <Chronic>
+    <Disease>
+      <Other>s p carcinoma of ovary</Other>
+    </Disease>
+  </Chronic>
+  <Diagnostic>Normal</Diagnostic>
+  <Imaging>
+    <Type>X-ray</Type>
+    <Findings>pneumonia</Findings>
+  </Imaging>
+  <LungAuscultation>Normal</LungAuscultation>
+  <HeartRate>No Measurement</HeartRate>
+  <SpO2>No Measurement</SpO2>
+  <DownLoadFiles>14</DownLoadFiles>
+</Bat-Call_PatientData>
