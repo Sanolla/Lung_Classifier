@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Bat-Call_PatientData>
+  <State>close</State>
+  <SerialNumber>11000017</SerialNumber>
+  <Gender>Male</Gender>
+  <Age>57</Age>
+  <Height>171-180</Height>
+  <Weight>51-80</Weight>
+  <Smoking>Yes</Smoking>
+  <Chronic>
+    <Disease>Lung cancer</Disease>
+  </Chronic>
+  <Diagnostic>
+    <Disease>
+      <Other>Pneumonia</Other>
+    </Disease>
+  </Diagnostic>
+  <Imaging>
+    <Type>X-ray</Type>
+    <Findings />
+  </Imaging>
+  <LungAuscultation>Normal</LungAuscultation>
+  <HeartRate>No Measurement</HeartRate>
+  <SpO2>No Measurement</SpO2>
+  <DownLoadFiles>14</DownLoadFiles>
+</Bat-Call_PatientData>
