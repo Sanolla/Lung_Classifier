@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Bat-Call_PatientData>
+  <State>close</State>
+  <SerialNumber>76000079</SerialNumber>
+  <Gender>Female</Gender>
+  <Age>71</Age>
+  <Height>151-160</Height>
+  <Weight>81-100</Weight>
+  <Smoking>No</Smoking>
+  <Chronic>
+    <Disease>
+      <Other>ASTHMA+DIABETES+HYPERLIPIDEMIA</Other>
+    </Disease>
+  </Chronic>
+  <Diagnostic>
+    <Disease>
+      <Other>COVID19</Other>
+    </Disease>
+  </Diagnostic>
+  <Imaging>
+    <Type>X-ray</Type>
+    <Findings>NORMAL</Findings>
+  </Imaging>
+  <LungAuscultation>
+    <Findings>EXPIRATORY WHEEZINGS</Findings>
+  </LungAuscultation>
+  <HeartRate>87</HeartRate>
+  <SpO2>96</SpO2>
+  <DownLoadFiles>15</DownLoadFiles>
+</Bat-Call_PatientData>
