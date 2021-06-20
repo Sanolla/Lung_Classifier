@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Bat-Call_PatientData>
+  <State>close</State>
+  <SerialNumber>91100005</SerialNumber>
+  <Gender>Male</Gender>
+  <Age>18</Age>
+  <Height>150 and under</Height>
+  <Weight>151 and over</Weight>
+  <Smoking>No</Smoking>
+  <Chronic>
+    <Disease>
+      <Other>doron</Other>
+    </Disease>
+  </Chronic>
+  <Diagnostic>Normal</Diagnostic>
+  <Imaging>
+    <Type>None</Type>
+  </Imaging>
+  <LungAuscultation>Normal</LungAuscultation>
+  <HeartRate>No Measurement</HeartRate>
+  <SpO2>No Measurement</SpO2>
+  <DownLoadFiles>14</DownLoadFiles>
+</Bat-Call_PatientData>
